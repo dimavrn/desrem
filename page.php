@@ -37,4 +37,8 @@ get_header();
 get_sidebar();
 get_footer();
 
+<<<<<<< HEAD
 // asdaf
+=======
+// KDFJFJ
+>>>>>>> parent of 781e7a6... Update page.php
